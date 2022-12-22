@@ -1,3 +1,5 @@
+import {Task} from "./Task.js";
+
 class Project {
     constructor(title) {
         this.title = title;
